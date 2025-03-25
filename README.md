@@ -82,7 +82,7 @@ python main.py
 
 - Provides real-time stock market data
 - Uses Alpha Vantage API
-- Example: "What's the current price of AAPL?"
+- Example: "What's the current price of tesla?"
 
 ### Weather Asset Agent
 
@@ -94,22 +94,4 @@ python main.py
 
 - Performs web searches with result summarization
 - Uses Google Custom Search API
-- Example: "Tell me about quantum computing"
-
-## Error Handling
-
-The system includes comprehensive error handling for:
-
-- API failures
-- Invalid inputs
-- Network issues
-- Missing API keys
-- Data parsing errors
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Example: "What are the best Android phones under $500?"
